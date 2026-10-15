@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="30 96 690 784" width="690" height="784" font-family="Helvetica, Arial, sans-serif" role="img" aria-label="Map: where to park near 678 Ohlone St, Milpitas">
+<rect x="30" y="96" width="690" height="784" rx="18" fill="#f6ead6"/>
+<g transform="translate(680 136)"><circle r="22" fill="none" stroke="#b8862f" stroke-width="1.2"/><path d="M0 -15 L7 8 L0 3 L-7 8Z" fill="#55101f"/><text y="-26" text-anchor="middle" font-size="11" font-weight="700" fill="#55101f">N</text></g>
+<g transform="translate(-100 0)">
+<path d="M299.0 100 L371.0 100 L452.0526315789474 870 L380.0526315789474 870Z" fill="#e2d2b6"/>
+<path d="M335.0 100 L416.0526315789474 870" stroke="#fff" stroke-width="2" stroke-dasharray="14 12"/>
+<text transform="translate(367.36842105263156 360) rotate(84)" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="3" fill="#6d4741">S MAIN ST</text>
+<rect x="150" y="625" width="150" height="66" rx="6" fill="#eadcc6" stroke="#d8c6a8"/>
+<text x="225" y="652" text-anchor="middle" font-size="13" font-weight="700" fill="#3a1117">Kashish</text><text x="225" y="670" text-anchor="middle" font-size="12" fill="#6d4741">Threading Salon</text>
+<rect x="520" y="118" width="200" height="190" rx="8" fill="#eadcc6" stroke="#d8c6a8"/>
+<text x="620" y="205" text-anchor="middle" font-size="15" font-weight="700" fill="#3a1117">New India</text><text x="620" y="224" text-anchor="middle" font-size="15" font-weight="700" fill="#3a1117">Bazar</text>
+<rect x="398" y="128" width="106" height="172" rx="6" fill="#f3e2bd" stroke="#b8862f" stroke-width="2" stroke-dasharray="6 5"/>
+<path d="M406 147.1H436M466 147.1H496" stroke="#d1b47c" stroke-width="1.4"/>
+<path d="M406 166.2H436M466 166.2H496" stroke="#d1b47c" stroke-width="1.4"/>
+<path d="M406 185.3H436M466 185.3H496" stroke="#d1b47c" stroke-width="1.4"/>
+<path d="M406 204.4H436M466 204.4H496" stroke="#d1b47c" stroke-width="1.4"/>
+<path d="M406 223.6H436M466 223.6H496" stroke="#d1b47c" stroke-width="1.4"/>
+<path d="M406 242.7H436M466 242.7H496" stroke="#d1b47c" stroke-width="1.4"/>
+<path d="M406 261.8H436M466 261.8H496" stroke="#d1b47c" stroke-width="1.4"/>
+<path d="M406 280.9H436M466 280.9H496" stroke="#d1b47c" stroke-width="1.4"/>
+<rect x="420" y="352" width="96" height="44" rx="6" fill="#eadcc6" stroke="#d8c6a8"/><text x="468" y="379" text-anchor="middle" font-size="12" fill="#6d4741">Car wash</text>
+<rect x="418" y="432" width="356" height="372" rx="16" fill="#f1e5d1" stroke="#cdb48a" stroke-dasharray="5 5"/>
+<text x="764" y="452" text-anchor="end" font-size="11" letter-spacing="1" fill="#6d4741">TOLL BROTHERS AT SOUTH MAIN</text>
+<path d="M408.36842105263156 474 H554 Q588 474 588 508" fill="none" stroke="#e2d2b6" stroke-width="26" opacity=".45"/>
+<path d="M588 506 V792" fill="none" stroke="#e2d2b6" stroke-width="26"/>
+<path d="M426.89473684210526 650 H588" stroke="#e2d2b6" stroke-width="26"/>
+<text transform="translate(592 732) rotate(90)" text-anchor="middle" font-size="11" font-weight="700" letter-spacing="2" fill="#6d4741">OHLONE ST</text>
+<text x="507.4473684210526" y="654" text-anchor="middle" font-size="10.5" font-weight="700" letter-spacing="2" fill="#6d4741">MUWEKMA ST</text>
+<rect x="446" y="494" width="112" height="128" rx="4" fill="#eadcc6" stroke="#d8c6a8"/>
+<rect x="446" y="676" width="112" height="112" rx="4" fill="#eadcc6" stroke="#d8c6a8"/>
+<rect x="612" y="714" width="150" height="76" rx="4" fill="#eadcc6" stroke="#d8c6a8"/>
+<rect x="606" y="556" width="24" height="66" rx="2" fill="#eadcc6" stroke="#d8c6a8"/>
+<rect x="632" y="556" width="24" height="66" rx="2" fill="#eadcc6" stroke="#d8c6a8"/>
+<rect x="658" y="556" width="24" height="66" rx="2" fill="#eadcc6" stroke="#d8c6a8"/>
+<rect x="684" y="556" width="24" height="66" rx="2" fill="#eadcc6" stroke="#d8c6a8"/>
+<rect x="710" y="556" width="24" height="66" rx="2" fill="#eadcc6" stroke="#d8c6a8"/>
+<rect x="736" y="556" width="24" height="66" rx="2" fill="#eadcc6" stroke="#d8c6a8"/>
+<rect x="604" y="554" width="28" height="70" rx="4" fill="#55101f"/>
+<rect x="604" y="628" width="44" height="10" fill="#e8ddcf" stroke="#b8862f" stroke-width="1.4"/>
+<rect x="604" y="639" width="44" height="10" fill="#f7e7c2" stroke="#b8862f" stroke-width="1.4"/>
+<rect x="604" y="650" width="44" height="10" fill="#f7e7c2" stroke="#b8862f" stroke-width="1.4"/>
+<rect x="604" y="661" width="44" height="10" fill="#f7e7c2" stroke="#b8862f" stroke-width="1.4"/>
+<rect x="604" y="672" width="44" height="10" fill="#f7e7c2" stroke="#b8862f" stroke-width="1.4"/>
+<rect x="604" y="683" width="44" height="10" fill="#f7e7c2" stroke="#b8862f" stroke-width="1.4"/>
+<path d="M607 630 l38 6" stroke="#b9ab98" stroke-width="1"/>
+<rect x="602" y="626" width="48" height="70" rx="4" fill="none" stroke="#b8862f" stroke-width="3"/>
+<circle cx="726" cy="660" r="28" fill="#cfdcbf" stroke="#b7c7a3"/><text x="726" y="664" text-anchor="middle" font-size="10" fill="#4f6640">plaza</text>
+<path d="M404 296 L396.10526315789474 310 L430.0 632 H568 V590 H600" stroke="#55101f" stroke-width="2.6" stroke-dasharray="1 7" stroke-linecap="round" fill="none"/>
+<path d="M376.1578947368421 700 L372.36842105263156 664 H572 V600 L604 600" stroke="#55101f" stroke-width="2.6" stroke-dasharray="1 7" stroke-linecap="round" fill="none"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10Z" fill="#55101f"/></marker></defs>
+<path d="M363.10526315789474 500 L375.7368421052632 620 Q380.2631578947368 644 436.89473684210526 644 H578" stroke="#55101f" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M426.6842105263158 800 L414.0526315789474 680 Q412.7368421052632 658 438.89473684210526 654" stroke="#55101f" stroke-width="4" fill="none" stroke-linecap="round"/>
+<text x="427.42105263157896" y="548" font-size="11" font-weight="700" fill="#55101f">drive in</text>
+<g transform="translate(466.2631578947368 416)"><rect x="-46" y="-12" width="92" height="22" rx="11" fill="#fffaf0" stroke="#b8862f"/><text y="3.5" text-anchor="middle" font-size="11" font-weight="700" fill="#55101f">330 m · 5 min</text></g>
+<g transform="translate(490 684)"><rect x="-46" y="-12" width="92" height="22" rx="11" fill="#fffaf0" stroke="#b8862f"/><text y="3.5" text-anchor="middle" font-size="11" font-weight="700" fill="#55101f">120 m · 2 min</text></g>
+<path d="M359.2631578947368 606 L370.8421052631579 716" stroke="#b8862f" stroke-width="10" stroke-linecap="round" stroke-dasharray="16 7" opacity=".95"/>
+<path d="M317.3 145.5 L323.3 154.5 L329.3 145.5" stroke="#fffaf0" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-6 323.3 150)"/>
+<path d="M351.3 154.5 L357.3 145.5 L363.3 154.5" stroke="#fffaf0" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-6 357.3 150)"/>
+<path d="M323.1 200.5 L329.1 209.5 L335.1 200.5" stroke="#fffaf0" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-6 329.1 205)"/>
+<path d="M357.1 209.5 L363.1 200.5 L369.1 209.5" stroke="#fffaf0" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-6 363.1 205)"/>
+<path d="M345.7 415.5 L351.7 424.5 L357.7 415.5" stroke="#fffaf0" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-6 351.7 420)"/>
+<path d="M379.7 424.5 L385.7 415.5 L391.7 424.5" stroke="#fffaf0" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-6 385.7 420)"/>
+<path d="M390.4 840.5 L396.4 849.5 L402.4 840.5" stroke="#fffaf0" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-6 396.4 845)"/>
+<path d="M424.4 849.5 L430.4 840.5 L436.4 849.5" stroke="#fffaf0" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-6 430.4 845)"/>
+<g transform="translate(436.36842105263156 474)"><rect x="-6" y="-17" width="12" height="34" rx="2" fill="#fffaf0" stroke="#55101f" stroke-width="2"/><path d="M-6 -9 L6 -15 M-6 -1 L6 -7 M-6 7 L6 1 M-6 15 L6 9" stroke="#55101f" stroke-width="2.4"/></g>
+<text x="450.36842105263156" y="470" font-size="11" font-weight="700" fill="#55101f">Closed</text><text x="450.36842105263156" y="484" font-size="10" fill="#6d4741">use Muwekma St</text>
+<g transform="translate(668 661)"><circle r="16" fill="#e3c375" stroke="#55101f" stroke-width="2"/><text y="5.5" text-anchor="middle" font-size="16" font-weight="700" fill="#55101f">1</text></g>
+<g transform="translate(327.63157894736844 600)"><circle r="16" fill="#e3c375" stroke="#55101f" stroke-width="2"/><text y="5.5" text-anchor="middle" font-size="16" font-weight="700" fill="#55101f">2</text></g>
+<g transform="translate(451 116)"><circle r="16" fill="#e3c375" stroke="#55101f" stroke-width="2"/><text y="5.5" text-anchor="middle" font-size="16" font-weight="700" fill="#55101f">3</text></g>
+<g transform="translate(618 518)"><path d="M0 26 C-14 10 -16 2 -16 -6 A16 16 0 0 1 16 -6 C16 2 14 10 0 26Z" fill="#55101f"/><path d="M-8 -4 L0 -11 L8 -4 V5 H-8Z" fill="#fff"/></g>
+<text x="644" y="500" font-size="13.5" font-weight="700" fill="#55101f">Our home</text><text x="644" y="516" font-size="11" fill="#6d4741">678 Ohlone St</text><text x="644" y="530" font-size="11" fill="#6d4741">Milpitas, CA 95035</text>
+</g>
+</svg>
