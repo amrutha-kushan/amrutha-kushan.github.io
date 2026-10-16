@@ -5,15 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:gruhapravesha-2026-11-01@amrutha-kushan.github.io
-DTSTAMP:20261015T165710Z
+DTSTAMP:20261016T045256Z
 DTSTART:20261101T183000Z
 DTEND:20261101T220000Z
 SUMMARY:Gruhapravesha · Amrutha & Kushan
 LOCATION:678 Ohlone St\, Milpitas\, CA 95035
 DESCRIPTION:Our Gruhapravesha (housewarming). The ceremony begins at 10:30 
- AM\, followed by lunch.\nDetails and RSVP: https://amrutha-kushan.github.i
- o/
-URL:https://amrutha-kushan.github.io/
+ AM\, followed by lunch.\nDetails and RSVP: https://amruthakushan.com/
+URL:https://amruthakushan.com/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Gruhapravesha tomorrow at 10:30 AM
