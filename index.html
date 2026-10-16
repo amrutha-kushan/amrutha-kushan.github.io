@@ -21,8 +21,33 @@
     <link rel="icon" href="./favicon.ico" sizes="32x32" />
     <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
     <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
-    <script type="module" crossorigin src="./assets/index-BdTCmi5p.js"></script>
+    <style>#gp-loader{z-index:100;background:radial-gradient(70% 55% at 50% 45%,#6a1828 0,#3d0a16 55%,#22050b 100%);align-content:center;place-items:center;gap:18px;transition:opacity .6s,visibility 0s linear .6s;display:grid;position:fixed;inset:0}#gp-loader svg{width:min(46vw,210px);height:auto;transition:transform .7s cubic-bezier(.16,1,.3,1);overflow:visible}#gp-loader p{letter-spacing:.02em;color:#e8d3b0;margin:0;font:italic 400 19px/1.3 Georgia,Times New Roman,serif}#gp-loader.gp-loader-done{opacity:0;visibility:hidden}#gp-loader.gp-loader-done svg{transform:scale(1.12)}#gp-loader .draw{stroke-dasharray:1;stroke-dashoffset:1px;animation:1.1s cubic-bezier(.65,0,.35,1) forwards gpl-draw}#gp-loader .draw-2{animation-delay:.25s}#gp-loader .draw-3{animation-delay:.5s}#gp-loader .glow{opacity:0;animation:.6s .85s forwards gpl-fade,1.8s ease-in-out 1.45s infinite alternate gpl-glow}#gp-loader .flame{transform-box:fill-box;transform-origin:50% 100%;opacity:0;animation:.4s 1s forwards gpl-fade,.9s ease-in-out 1.4s infinite alternate gpl-flicker}#gp-loader .flame-2{animation-delay:1.1s,1.65s}#gp-loader .torana{transform-box:view-box;transform-origin:100px 52px;opacity:0;animation:.5s .7s forwards gpl-fade,2.4s ease-in-out 1.2s infinite alternate gpl-sway}#gp-loader .spark{opacity:0;animation:2.2s ease-out infinite gpl-rise}#gp-loader .spark:nth-of-type(2){animation-delay:.45s}#gp-loader .spark:nth-of-type(3){animation-delay:.9s}#gp-loader .spark:nth-of-type(4){animation-delay:1.35s}#gp-loader .spark:nth-of-type(5){animation-delay:1.8s}@keyframes gpl-draw{to{stroke-dashoffset:0}}@keyframes gpl-fade{to{opacity:1}}@keyframes gpl-glow{0%{opacity:.75}to{opacity:1}}@keyframes gpl-flicker{0%{transform:scale(.9,.94)rotate(-2deg)}to{transform:scale(1.05,1.08)rotate(2deg)}}@keyframes gpl-sway{0%{transform:rotate(-1.6deg)}to{transform:rotate(1.6deg)}}@keyframes gpl-rise{0%{opacity:0;transform:translateY(0)scale(.6)}20%{opacity:1}to{opacity:0;transform:translateY(-46px)scale(1.1)}}@media (prefers-reduced-motion:reduce){#gp-loader *,#gp-loader{transition:none!important;animation:none!important}#gp-loader .draw{stroke-dashoffset:0}#gp-loader .glow,#gp-loader .flame,#gp-loader .torana{opacity:1}#gp-loader .spark{display:none}}</style>
+    <script type="module" crossorigin src="./assets/index-DxrfICce.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-CvIzMwXL.css">
   </head>
-  <body><div id="root"></div></body>
+  <body>
+    <div id="gp-loader" aria-hidden="true">
+      <svg viewBox="0 0 200 190" focusable="false">
+        <defs>
+          <radialGradient id="gpl-door" cx=".5" cy=".7" r=".8"><stop offset="0" stop-color="#fff2c4"/><stop offset=".55" stop-color="#ffd27a"/><stop offset="1" stop-color="#e8963a"/></radialGradient>
+          <radialGradient id="gpl-flame" cx=".5" cy=".75" r=".7"><stop offset="0" stop-color="#fff4c2"/><stop offset=".6" stop-color="#ffc24a"/><stop offset="1" stop-color="#e8741c"/></radialGradient>
+        </defs>
+        <g fill="#f4c76a"><circle class="spark" cx="74" cy="46" r="2.2"/><circle class="spark" cx="122" cy="40" r="1.8"/><circle class="spark" cx="100" cy="30" r="2.4"/><circle class="spark" cx="140" cy="54" r="1.6"/><circle class="spark" cx="60" cy="60" r="1.6"/></g>
+        <path class="draw" pathLength="1" d="M22 96 L60 58 H140 L178 96 Z" fill="none" stroke="#e3c375" stroke-width="3" stroke-linejoin="round"/>
+        <path class="draw draw-2" pathLength="1" d="M40 96 V152 H160 V96" fill="none" stroke="#e3c375" stroke-width="3" stroke-linejoin="round"/>
+        <path class="draw draw-3" pathLength="1" d="M30 152 H170 M78 160 H122" fill="none" stroke="#e3c375" stroke-width="3" stroke-linecap="round"/>
+        <rect class="glow" x="87" y="110" width="26" height="42" rx="2" fill="url(#gpl-door)"/>
+        <rect class="glow" x="54" y="112" width="18" height="16" rx="1.5" fill="url(#gpl-door)"/>
+        <rect class="glow" x="128" y="112" width="18" height="16" rx="1.5" fill="url(#gpl-door)"/>
+        <g class="torana">
+          <path d="M76 102 Q100 112 124 102" fill="none" stroke="#c9a467" stroke-width="1.4"/>
+          <g fill="#4c8a3a"><path d="M80 104 q-3 5 0 11 q3-6 0-11Z"/><path d="M88 107 q-3 5 0 11 q3-6 0-11Z"/><path d="M96 108.5 q-3 5 0 11 q3-6 0-11Z"/><path d="M104 108.5 q-3 5 0 11 q3-6 0-11Z"/><path d="M112 107 q-3 5 0 11 q3-6 0-11Z"/><path d="M120 104 q-3 5 0 11 q3-6 0-11Z"/></g>
+          <g fill="#f08a24"><circle cx="76" cy="102" r="3"/><circle cx="100" cy="107" r="2.6"/><circle cx="124" cy="102" r="3"/></g>
+        </g>
+        <g><path d="M58 172 q12 7 24 0 z" fill="#d9a441"/><path class="flame" d="M70 158 c4 5 4 9 0 12 c-4-3-4-7 0-12z" fill="url(#gpl-flame)"/></g>
+        <g><path d="M118 172 q12 7 24 0 z" fill="#d9a441"/><path class="flame flame-2" d="M130 158 c4 5 4 9 0 12 c-4-3-4-7 0-12z" fill="url(#gpl-flame)"/></g>
+      </svg>
+      <p>Opening our doors…</p>
+    </div>
+    <div id="root"></div></body>
 </html>
