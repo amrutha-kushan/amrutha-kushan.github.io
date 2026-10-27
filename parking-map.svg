@@ -25,9 +25,8 @@
 <path d="M588 506 V792" fill="none" stroke="#e2d2b6" stroke-width="26"/>
 <path d="M426.89473684210526 650 H588" stroke="#e2d2b6" stroke-width="26"/>
 <text transform="translate(592 732) rotate(90)" text-anchor="middle" font-size="11" font-weight="700" letter-spacing="2" fill="#6d4741">OHLONE ST</text>
-<text x="507.4473684210526" y="654" text-anchor="middle" font-size="10.5" font-weight="700" letter-spacing="2" fill="#6d4741">MUWEKMA ST</text>
+<text x="481.4473684210526" y="654" text-anchor="middle" font-size="10.5" font-weight="700" letter-spacing="2" fill="#6d4741">MUWEKMA ST</text>
 <rect x="446" y="494" width="112" height="128" rx="4" fill="#eadcc6" stroke="#d8c6a8"/>
-<rect x="446" y="676" width="112" height="112" rx="4" fill="#eadcc6" stroke="#d8c6a8"/>
 <rect x="612" y="714" width="150" height="76" rx="4" fill="#eadcc6" stroke="#d8c6a8"/>
 <rect x="606" y="556" width="24" height="66" rx="2" fill="#eadcc6" stroke="#d8c6a8"/>
 <rect x="632" y="556" width="24" height="66" rx="2" fill="#eadcc6" stroke="#d8c6a8"/>
@@ -52,7 +51,15 @@
 <path d="M426.6842105263158 800 L414.0526315789474 680 Q412.7368421052632 658 438.89473684210526 654" stroke="#55101f" stroke-width="4" fill="none" stroke-linecap="round"/>
 <text x="427.42105263157896" y="548" font-size="11" font-weight="700" fill="#55101f">drive in</text>
 <g transform="translate(466.2631578947368 416)"><rect x="-46" y="-12" width="92" height="22" rx="11" fill="#fffaf0" stroke="#b8862f"/><text y="3.5" text-anchor="middle" font-size="11" font-weight="700" fill="#55101f">330 m · 5 min</text></g>
-<g transform="translate(490 684)"><rect x="-46" y="-12" width="92" height="22" rx="11" fill="#fffaf0" stroke="#b8862f"/><text y="3.5" text-anchor="middle" font-size="11" font-weight="700" fill="#55101f">120 m · 2 min</text></g>
+<g transform="translate(308.4736842105263 760)"><rect x="-46" y="-12" width="92" height="22" rx="11" fill="#fffaf0" stroke="#b8862f"/><text y="3.5" text-anchor="middle" font-size="11" font-weight="700" fill="#55101f">120 m · 2 min</text></g>
+<defs><pattern id="dirt" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><rect width="9" height="9" fill="#e4d1ad"/><path d="M0 0V9" stroke="#cfb98f" stroke-width="2"/></pattern></defs>
+<rect x="446" y="672" width="112" height="116" rx="6" fill="url(#dirt)" stroke="#b8862f" stroke-width="2" stroke-dasharray="6 5"/>
+<g transform="translate(462 774)"><path d="M-6 6 L0 -9 L6 6Z" fill="#e8742a"/><path d="M-3.6 0 H3.6" stroke="#fffaf0" stroke-width="2"/><rect x="-8" y="6" width="16" height="3" rx="1" fill="#b85a22"/></g>
+<g transform="translate(540 774)"><path d="M-6 6 L0 -9 L6 6Z" fill="#e8742a"/><path d="M-3.6 0 H3.6" stroke="#fffaf0" stroke-width="2"/><rect x="-8" y="6" width="16" height="3" rx="1" fill="#b85a22"/></g>
+<g transform="translate(464 694)"><path d="M-6 6 L0 -9 L6 6Z" fill="#e8742a"/><path d="M-3.6 0 H3.6" stroke="#fffaf0" stroke-width="2"/><rect x="-8" y="6" width="16" height="3" rx="1" fill="#b85a22"/></g>
+<text x="502.0" y="752.0" text-anchor="middle" font-size="11" font-weight="700" fill="#3a1117">Open lot</text><text x="502.0" y="766.0" text-anchor="middle" font-size="10" fill="#6d4741">construction site</text>
+<path d="M534 646 Q552 648 552 672 V700" stroke="#55101f" stroke-width="3.4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
+<path d="M532 680 V664" stroke="#55101f" stroke-width="2.6" stroke-dasharray="1 7" stroke-linecap="round" fill="none"/>
 <path d="M359.2631578947368 606 L370.8421052631579 716" stroke="#b8862f" stroke-width="10" stroke-linecap="round" stroke-dasharray="16 7" opacity=".95"/>
 <path d="M317.3 145.5 L323.3 154.5 L329.3 145.5" stroke="#fffaf0" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-6 323.3 150)"/>
 <path d="M351.3 154.5 L357.3 145.5 L363.3 154.5" stroke="#fffaf0" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-6 357.3 150)"/>
@@ -65,8 +72,9 @@
 <g transform="translate(436.36842105263156 474)"><rect x="-6" y="-17" width="12" height="34" rx="2" fill="#fffaf0" stroke="#55101f" stroke-width="2"/><path d="M-6 -9 L6 -15 M-6 -1 L6 -7 M-6 7 L6 1 M-6 15 L6 9" stroke="#55101f" stroke-width="2.4"/></g>
 <text x="450.36842105263156" y="470" font-size="11" font-weight="700" fill="#55101f">Closed</text><text x="450.36842105263156" y="484" font-size="10" fill="#6d4741">use Muwekma St</text>
 <g transform="translate(668 661)"><circle r="16" fill="#e3c375" stroke="#55101f" stroke-width="2"/><text y="5.5" text-anchor="middle" font-size="16" font-weight="700" fill="#55101f">1</text></g>
-<g transform="translate(327.63157894736844 600)"><circle r="16" fill="#e3c375" stroke="#55101f" stroke-width="2"/><text y="5.5" text-anchor="middle" font-size="16" font-weight="700" fill="#55101f">2</text></g>
-<g transform="translate(451 116)"><circle r="16" fill="#e3c375" stroke="#55101f" stroke-width="2"/><text y="5.5" text-anchor="middle" font-size="16" font-weight="700" fill="#55101f">3</text></g>
+<g transform="translate(502.0 724.0)"><circle r="16" fill="#e3c375" stroke="#55101f" stroke-width="2"/><text y="5.5" text-anchor="middle" font-size="16" font-weight="700" fill="#55101f">2</text></g>
+<g transform="translate(327.63157894736844 600)"><circle r="16" fill="#e3c375" stroke="#55101f" stroke-width="2"/><text y="5.5" text-anchor="middle" font-size="16" font-weight="700" fill="#55101f">3</text></g>
+<g transform="translate(451 116)"><circle r="16" fill="#e3c375" stroke="#55101f" stroke-width="2"/><text y="5.5" text-anchor="middle" font-size="16" font-weight="700" fill="#55101f">4</text></g>
 <g transform="translate(618 518)"><path d="M0 26 C-14 10 -16 2 -16 -6 A16 16 0 0 1 16 -6 C16 2 14 10 0 26Z" fill="#55101f"/><path d="M-8 -4 L0 -11 L8 -4 V5 H-8Z" fill="#fff"/></g>
 <text x="644" y="500" font-size="13.5" font-weight="700" fill="#55101f">Our home</text><text x="644" y="516" font-size="11" fill="#6d4741">678 Ohlone St</text><text x="644" y="530" font-size="11" fill="#6d4741">Milpitas, CA 95035</text>
 </g>
